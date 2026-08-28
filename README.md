@@ -1,6 +1,6 @@
 ### About Aldrin Caballero
 <p>
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -  Hi, I’m a Junior Software Engineer at OrangeApps, where I work on maintaining and enhancing Laravel-based ERP systems using Laravel and Vue.js. Since July up to the present, I’ve been involved in supporting production applications, improving existing features, fixing bugs, and collaborating with the team to ensure system stability and performance.
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -  Hi, I’m a Junior Software Engineer at OrangeApps, where I work on maintaining and enhancing Laravel-based ERP systems using Laravel, Codeigniter and Vue.js. I’ve been involved in supporting production applications, improving existing features, fixing bugs, and collaborating with the team to ensure system stability and performance.
 <br><br>
 I have solid experience in PHP, Laravel, MySQL, RESTful API development, and front-end integration with Vue.js, along with working knowledge of React and Node.js.
 <br><br>
