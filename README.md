@@ -1,7 +1,5 @@
-### About Aldrin Caballero
-<p>
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -  Hi, I’m a Junior Software Engineer at OrangeApps Inc, where I work on maintaining and enhancing Laravel-based applications.
-</p>
+## About Aldrin Caballero
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -  Hi, I’m a Junior Software Engineer at OrangeApps Inc, where I work on maintaining and enhancing Laravel-based applications 😊.
 <br><br>
 <div align="center">
   
